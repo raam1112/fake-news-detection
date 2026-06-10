@@ -1,6 +1,6 @@
 # 🔍 Fake News Detection — NLP & ML Web App
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://YOUR-APP-URL.streamlit.app)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://filterfeed.streamlit.app)
 ![Python](https://img.shields.io/badge/Python-3.10+-blue)
 ![Accuracy](https://img.shields.io/badge/Accuracy-98.91%25-brightgreen)
 ![License](https://img.shields.io/badge/License-MIT-yellow)
@@ -10,7 +10,7 @@
 > **REAL** or **FAKE** with a confidence score.
 
 ## 🎯 Live Demo
-👉 **[Click here to try the app](https://YOUR-APP-URL.streamlit.app)**
+👉 **[Click here to try the app](https://filterfeed.streamlit.app)**
 
 ## 📊 Model Performance
 | Metric       | Score    |
